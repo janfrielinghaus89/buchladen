@@ -1,0 +1,14 @@
+E:\Programming\ForGitHub\Buchladen\obj\Debug\net8.0\Buchladen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\ForGitHub\Buchladen\obj\Debug\net8.0\Buchladen.AssemblyInfoInputs.cache
+E:\Programming\ForGitHub\Buchladen\obj\Debug\net8.0\Buchladen.AssemblyInfo.cs
+E:\Programming\ForGitHub\Buchladen\obj\Debug\net8.0\Buchladen.csproj.CoreCompileInputs.cache
+E:\Programming\ForGitHub\Buchladen\bin\Debug\net8.0\Buchladen.exe
+E:\Programming\ForGitHub\Buchladen\bin\Debug\net8.0\Buchladen.deps.json
+E:\Programming\ForGitHub\Buchladen\bin\Debug\net8.0\Buchladen.runtimeconfig.json
+E:\Programming\ForGitHub\Buchladen\bin\Debug\net8.0\Buchladen.dll
+E:\Programming\ForGitHub\Buchladen\bin\Debug\net8.0\Buchladen.pdb
+E:\Programming\ForGitHub\Buchladen\obj\Debug\net8.0\Buchladen.dll
+E:\Programming\ForGitHub\Buchladen\obj\Debug\net8.0\refint\Buchladen.dll
+E:\Programming\ForGitHub\Buchladen\obj\Debug\net8.0\Buchladen.pdb
+E:\Programming\ForGitHub\Buchladen\obj\Debug\net8.0\Buchladen.genruntimeconfig.cache
+E:\Programming\ForGitHub\Buchladen\obj\Debug\net8.0\ref\Buchladen.dll
